@@ -3,7 +3,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <modules>
+<<<<<<< HEAD
         <module>order-service</module>
+=======
+        <module>shoping-server</module>
+>>>>>>> dev
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
